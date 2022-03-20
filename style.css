@@ -1,0 +1,8 @@
+body {
+    background-image: url(image/bgkopi.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+}
